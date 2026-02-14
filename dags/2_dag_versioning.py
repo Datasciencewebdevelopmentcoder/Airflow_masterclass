@@ -8,7 +8,6 @@ from datetime import datetime
     schedule="@daily",
     catchup=False)
 
-
 def first_dag():
     @task.python
     def first_task():
@@ -21,8 +20,11 @@ def first_dag():
     @task.python
     def third_task():
         print("This is the third task")
+    @task.python
+    def fourth_task():
+        print("This is the fourth task")
     
-    first_task() >> second_task() >> third_task()
+    first_task() >> second_task() >> third_task() >> fourth_task()
 
 
 first_dag()
