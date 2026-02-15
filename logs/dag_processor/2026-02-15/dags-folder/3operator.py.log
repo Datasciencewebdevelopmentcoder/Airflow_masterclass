@@ -1,0 +1,12 @@
+{"timestamp":"2026-02-15T00:00:12.273456Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/3operator.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-15T00:00:43.188381Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/3operator.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-15T00:01:13.987784Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/3operator.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-15T00:01:44.871445Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/3operator.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-15T00:02:15.660554Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/3operator.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-15T00:02:46.525487Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/3operator.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-15T00:03:17.598935Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/3operator.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-15T00:03:48.436164Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/3operator.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-15T00:04:19.211703Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/3operator.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-15T00:04:50.046922Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/3operator.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-15T00:05:20.403076Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/3operator.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-15T00:05:51.442794Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/3operator.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
